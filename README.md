@@ -55,8 +55,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DadiRohit45&label=Profile%20Views&color=0078D7&style=flat" alt="Profile Views" />
-</p>
+
 
 <p align="center">⭐ Feel free to explore my repositories and leave a star if you like them! ⭐</p>
